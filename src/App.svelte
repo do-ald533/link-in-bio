@@ -15,7 +15,7 @@
 		<Link
 			name="Linkedin"
 			link="https://www.linkedin.com/in/douglas-aldred/"
-			svg="linkedin.svg"
+			svg="linkedin-logo.svg"
 			backgroundColor="#0077B5"
 		/>
 		<Link
@@ -25,16 +25,28 @@
 			backgroundColor="#1da1f2"
 		/>
 		<Link 
+			name="Reddit"
+			link="https://www.reddit.com/user/do-ald533"
+			svg="reddit.svg"
+			backgroundColor="#FF5700"
+		/>
+		<Link 
 			name="Codewars"
 			link="https://www.codewars.com/users/do-ald533"
 			svg="codewars.svg"
-			backgroundColor="#ff3e00"
+			backgroundColor="#d43a08"
 		/>
 		<Link 
 			name="Leetcode"
 			link="https://leetcode.com/do-ald533/"
 			svg="leetcode.svg"
 			backgroundColor="#00bcd4"
+		/>
+		<Link 
+			name="Medium"
+			link=""
+			svg="medium.svg"
+			backgroundColor="#39ff14"
 		/>
 	</ul>
 </main>

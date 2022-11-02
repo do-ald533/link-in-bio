@@ -20,7 +20,7 @@
         }
         h1 {
             display: inline-block;
-            font-size: 0.8em;
+            font-size: 1em;
             font-weight: bold;
             border-radius: 1em;
             background-color: #000a;
